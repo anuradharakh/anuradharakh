@@ -1,4 +1,4 @@
-# Hi there 👋 I am Anuradha Rakh (Anu)
+# Hi there I am Anuradha Rakh (Anu)
 
 - Pursuing my **MS in Applied Data Science** at the University of Chicago  
 - Building production-grade **LLM applications, RAG systems, and NLP pipelines**  
